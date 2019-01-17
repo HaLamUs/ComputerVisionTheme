@@ -3,9 +3,9 @@
 Bài tập môn học 
 
 ## Tuần 3
-1. How to Use The Pre-Trained VGG Model to Classify Objects in Photographs
-    Kết quả 
-    ![image](https://github.com/HaLamUs/ComputerVisionTheme/blob/master/Week3/mug.jpg)
+1. How to Use The Pre-Trained VGG Model to Classify Objects in Photographs  
+    Kết quả  
+    ![Screenshot](https://github.com/HaLamUs/ComputerVisionTheme/blob/master/ScreenShot/vgg_mug.png)
 
 ### Yêu cầu
 - python 3
